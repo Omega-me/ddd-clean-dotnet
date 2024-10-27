@@ -22,19 +22,19 @@
       "static/chunks/main-app-299bcb69485b84b2.js",
       "static/chunks/app/farmers/[id]/page-151793ca42cc63ee.js"
     ],
-    "/farmers/page": [
-      "static/chunks/webpack-d2ba7fe6ce70c0c2.js",
-      "static/chunks/fd9d1056-2fce5ef1b8d9778d.js",
-      "static/chunks/117-e4b48320a94394b6.js",
-      "static/chunks/main-app-299bcb69485b84b2.js",
-      "static/chunks/app/farmers/page-42555ada4271da5f.js"
-    ],
     "/page": [
       "static/chunks/webpack-d2ba7fe6ce70c0c2.js",
       "static/chunks/fd9d1056-2fce5ef1b8d9778d.js",
       "static/chunks/117-e4b48320a94394b6.js",
       "static/chunks/main-app-299bcb69485b84b2.js",
       "static/chunks/app/page-0a8b9a7b052e6eac.js"
+    ],
+    "/farmers/page": [
+      "static/chunks/webpack-d2ba7fe6ce70c0c2.js",
+      "static/chunks/fd9d1056-2fce5ef1b8d9778d.js",
+      "static/chunks/117-e4b48320a94394b6.js",
+      "static/chunks/main-app-299bcb69485b84b2.js",
+      "static/chunks/app/farmers/page-42555ada4271da5f.js"
     ],
     "/sellers/page": [
       "static/chunks/webpack-d2ba7fe6ce70c0c2.js",
